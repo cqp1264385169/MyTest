@@ -1,0 +1,3 @@
+public static void main(String[] arg){
+	Sytem out plintln("hello word");
+}
